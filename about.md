@@ -6,12 +6,9 @@ permalink: /about/
 
 
 
+당신의 일상에 틈(TM)을 만들어주는 행위 그리고 트레이드마크(TM)가 되는 그 무엇을 찾아서
 
-Webjeda cards is a Bootstrap based theme. Any Bootstrap element can be used in the theme. Read [Webjeda Blog](http://blog.webjeda.com){: target="_blank"} for jekyll tutorials. 
 
-For more themes, visit [jekyll-themes](https://jekyll-themes.com){: target="_blank"}
+기획: 김가현 @marina_gahyun_kim/the.sea.marina@gmail.com 
+일러스트 + 웹개발: 정다영 @jungdacurly/
 
-**Does the theme deserve a star?**
-
-<a class="github-button" href="https://github.com/sharu725/cards" data-style="mega" data-count-href="/sharu725/cards/stargazers" data-count-api="/repos/sharu725/cards#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/cards on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
