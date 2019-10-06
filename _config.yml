@@ -9,7 +9,7 @@
 title: yourtm
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  당신의 틈이자 당신의 트레이드마크인
+  당신의 틈이자 당신의 트레이드마크인 것
   
   
 baseurl: "" # the subpath of your site, e.g. /blog
